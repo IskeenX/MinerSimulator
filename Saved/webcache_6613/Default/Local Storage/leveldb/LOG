@@ -1,3 +1,2 @@
-2026/02/16-23:57:08.364 4b1c Reusing MANIFEST C:\Users\isken\Documents\Unreal Projects\MinerSimulator\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/16-23:57:08.373 4b1c Recovering log #3
-2026/02/16-23:57:08.376 4b1c Reusing old log C:\Users\isken\Documents\Unreal Projects\MinerSimulator\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/02/18-00:39:26.724 8080 Creating DB C:\Users\Ivano\OneDrive\Documents\GitHub\MinerSimulator\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/02/18-00:39:26.750 8080 Reusing MANIFEST C:\Users\Ivano\OneDrive\Documents\GitHub\MinerSimulator\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
